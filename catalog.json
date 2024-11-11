@@ -1,0 +1,75 @@
+{
+    "catalog": [
+        {
+            "id": "1",
+            "song_title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "album_title": "After Hours",
+            "duration": "3:20"
+        },
+        {
+            "id": "2",
+            "song_title": "Levitating",
+            "artist": "Dua Lipa",
+            "album_title": "Future Nostalgia",
+            "duration": "3:23"
+        },
+        {
+            "id": "3",
+            "song_title": "Shape of You",
+            "artist": "Ed Sheeran",
+            "album_title": "÷ (Divide)",
+            "duration": "3:53"
+        },
+        {
+            "id": "4",
+            "song_title": "Uptown Funk",
+            "artist": "Mark Ronson ft. Bruno Mars",
+            "album_title": "Uptown Special",
+            "duration": "4:30"
+        },
+        {
+            "id": "5",
+            "song_title": "Rolling in the Deep",
+            "artist": "Adele",
+            "album_title": "21",
+            "duration": "3:48"
+        },
+        {
+            "id": "6",
+            "song_title": "Bad Guy",
+            "artist": "Billie Eilish",
+            "album_title": "When We All Fall Asleep, Where Do We Go?",
+            "duration": "3:14"
+        },
+        {
+            "id": "7",
+            "song_title": "Someone Like You",
+            "artist": "Adele",
+            "album_title": "21",
+            "duration": "4:45"
+        },
+        {
+            "id": "8",
+            "song_title": "Sunflower",
+            "artist": "Post Malone & Swae Lee",
+            "album_title": "Spider-Man: Into the Spider-Verse",
+            "duration": "2:38"
+        },
+        {
+            "id": "9",
+            "song_title": "Dance Monkey",
+            "artist": "Tones and I",
+            "album_title": "The Kids Are Coming",
+            "duration": "3:29"
+        },
+        {
+            "id": "10",
+            "song_title": "Shallow",
+            "artist": "Lady Gaga & Bradley Cooper",
+            "album_title": "A Star Is Born",
+            "duration": "3:36"
+        }
+    ]
+}
+
